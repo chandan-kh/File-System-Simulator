@@ -1,7 +1,7 @@
 # File-System-Simulator
 
 Project Description:
-File system simulator using C++ version 11. This program will simulate the basic functionalities of a file system, including file creation, deletion, reading, and writing operations. The simulator will allow users to interact with a virtual file system and perform file operations similar to those in a real file system.
+File system simulator using C++ . This program will simulate the basic functionalities of a file system, including file creation, deletion, reading, and writing operations. The simulator will allow users to interact with a virtual file system and perform file operations similar to those in a real file system.
 
 Project Requirements Met:
 1. File System Structure:
